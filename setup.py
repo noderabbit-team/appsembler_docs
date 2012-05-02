@@ -18,7 +18,7 @@ setup(name='appsembler_docs',
       include_package_data=True,
       zip_safe=False,
       install_requires=[
-          # -*- Extra requirements: -*-
+        'sphinx',
       ],
       entry_points="""
       # -*- Entry points: -*-
